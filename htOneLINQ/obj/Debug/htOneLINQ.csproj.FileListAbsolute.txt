@@ -1,0 +1,11 @@
+D:\c-sharp-lab\c-sharp-projects\htOneLINQ\htOneLINQ\bin\Debug\htOneLINQ.dll
+D:\c-sharp-lab\c-sharp-projects\htOneLINQ\htOneLINQ\bin\Debug\htOneLINQ.pdb
+D:\c-sharp-lab\c-sharp-projects\htOneLINQ\htOneLINQ\bin\Debug\nunit.framework.dll
+D:\c-sharp-lab\c-sharp-projects\htOneLINQ\htOneLINQ\bin\Debug\nunit.framework.xml
+D:\c-sharp-lab\c-sharp-projects\htOneLINQ\htOneLINQ\obj\Debug\htOneLINQ.csprojResolveAssemblyReference.cache
+D:\c-sharp-lab\c-sharp-projects\htOneLINQ\htOneLINQ\obj\Debug\htOneLINQ.ResourceFile.resources
+D:\c-sharp-lab\c-sharp-projects\htOneLINQ\htOneLINQ\obj\Debug\htOneLINQ.csproj.GenerateResource.Cache
+D:\c-sharp-lab\c-sharp-projects\htOneLINQ\htOneLINQ\obj\Debug\htOneLINQ.dll
+D:\c-sharp-lab\c-sharp-projects\htOneLINQ\htOneLINQ\obj\Debug\htOneLINQ.pdb
+D:\c-sharp-lab\c-sharp-projects\htOneLINQ\htOneLINQ\bin\Debug\MathNet.Numerics.dll
+D:\c-sharp-lab\c-sharp-projects\htOneLINQ\htOneLINQ\bin\Debug\MathNet.Numerics.xml
