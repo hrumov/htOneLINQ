@@ -29,14 +29,7 @@ namespace htOneLINQ
             {
                 sum = sum + Int32.Parse(c.ToString());
             }
-            if (number % sum == 0)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return number % sum == 0;
         }
 
         public static bool IsDivideOnThree(this BigInteger n)
